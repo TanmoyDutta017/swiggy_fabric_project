@@ -1,5 +1,7 @@
 # Swiggy Fabric Data Analytics Project
 
+![Reprort](https://github.com/TanmoyDutta017/swiggy_fabric_project/blob/main/Report.png)
+
 ### 📌 Project Overview
 
 This project demonstrates an end-to-end data engineering and analytics solution using Microsoft Fabric. It involves ingesting raw Swiggy delivery data, processing it through a Medallion-style architecture (Lakehouse to Warehouse), and delivering actionable insights via a Power BI dashboard.
