@@ -12,7 +12,7 @@
 
 ### 📌 Project Overview
 
-This project demonstrates an end-to-end data engineering and analytics solution using Microsoft Fabric. It involves ingesting raw Swiggy delivery data, processing it through a Medallion-style architecture (Lakehouse to Warehouse), and delivering actionable insights via a Power BI dashboard.
+This project demonstrates an end-to-end data engineering and analytics solution using Microsoft Fabric. It involves ingesting raw Swiggy delivery data, processing it through a Lakehouse to Warehouse, and delivering actionable insights via a Power BI dashboard.
 
 
 
@@ -26,11 +26,11 @@ Data Ingestion (Lakehouse): Created swiggy\_lh to store raw CSV files.
 
 
 
-Data Transformation (SQL): Performed data cleaning and schema definition using Spark/SQL within the Lakehouse environment.
+Data Transformation (SQL): Performed data cleaning and schema definition using SQL within the Lakehouse environment.
 
 
 
-Data Orchestration (Pipelines): Developed a Data Pipeline to move cleaned tables into the Swiggy\_DW (Data Warehouse). As seen in image\_4a5779.png, the pipeline successfully handles the ingestion of Date, Dish, Location, Restaurant, and Fact Order tables.
+Data Orchestration (Pipelines): Developed a Data Pipeline to move cleaned tables into the Swiggy\_DW (Data Warehouse). The pipeline successfully handles the ingestion of Date, Dish, Location, Restaurant, and Fact Order tables.
 
 
 
@@ -44,7 +44,7 @@ Visualization: Connected the semantic model to Power BI Desktop for advanced rep
 
 ### 📊 Dashboard Key Features
 
-The final report (referenced in image\_4a573b.png) provides insights into:
+The final report  provides insights into:
 
 
 
@@ -92,7 +92,7 @@ Visualization: Power BI Service \& Desktop
 
 ### 🗄️ Data Model
 
-The semantic model (shown in image\_4a53a1.png) utilizes a Star Schema:
+The semantic model utilizes a Star Schema:
 
 
 
