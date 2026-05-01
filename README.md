@@ -1,6 +1,14 @@
 # Swiggy Fabric Data Analytics Project
 
+## Swiggy_Fabric_Report
 ![Reprort](https://github.com/TanmoyDutta017/swiggy_fabric_project/blob/main/Report.png)
+
+## Data Pipeline
+
+![Pipeline](https://github.com/TanmoyDutta017/swiggy_fabric_project/blob/main/Pipeline.png)
+
+## Semantic Model
+![Model](https://github.com/TanmoyDutta017/swiggy_fabric_project/blob/main/Semantic%20Model.png)
 
 ### 📌 Project Overview
 
@@ -115,6 +123,22 @@ Run Pipeline: Execute the pipeline to populate the Warehouse.
 
 
 Open Report: Use the .pbip or live connection to view the Swiggy\_Fabric\_Report.
+
+## Tools Used
+
+- **Microsoft Fabric**: Used for upload data in lakehouse, to create warehouse , semantic model and to publish end report.
+- **Power BI Dekstop**: To create Swiggy_Fabric_Report.
+
+## 🛡️License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+## ⭐About Me
+
+Tanmoy Dutta    
+Regional Coordinator/MIS Executive  
+📧Email: iamtanmoydutta@gmail.com   
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmoy-dutta-53996820b/)
+
 
 
 
